@@ -1,3 +1,9 @@
+# ----------------------------------------------------------------------------
+# Copyright (c) 2025 DotyCat. All rights reserved.
+# Website: https://dotycat.com
+# Email: support@dotycat.com
+# ----------------------------------------------------------------------------
+
 include $(TOPDIR)/rules.mk
 
 LUCI_TITLE:=TTL Configurator
